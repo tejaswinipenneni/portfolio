@@ -49,7 +49,7 @@ const Hero = () => {
             <Github className="w-6 h-6" />
           </a>
           <a
-            href="https://www.linkedin.com/in/tpenneni/"
+            href="https://www.linkedin.com/in/tejaswini-penneni2526/"
             target="_blank"
             rel="noopener noreferrer"
             className="w-12 h-12 bg-white/10 backdrop-blur-sm rounded-full flex items-center justify-center text-white hover:bg-white/20 transition-all duration-300 hover:scale-110"
