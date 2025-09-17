@@ -94,7 +94,7 @@ const Contact = () => {
                   <Github className="w-6 h-6" />
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/tpenneni/"
+                  href="https://www.linkedin.com/in/tejaswini-penneni2526/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-12 h-12 bg-white rounded-lg flex items-center justify-center text-gray-600 hover:text-blue-600 hover:bg-blue-50 transition-all duration-300 shadow-sm"
